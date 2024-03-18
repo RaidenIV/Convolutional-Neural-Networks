@@ -24,4 +24,8 @@ Requirements
 * Keras
 * Matplotlib
 
+Links and Documentation
+----
+* [Tensorflow](https://www.tensorflow.org/tutorials)
+
 This script is a straightforward example intended for educational purposes, demonstrating the basic principles of building and training a CNN with TensorFlow and Keras. Feel free to modify the code to experiment with different model architectures, hyperparameters, or even datasets.
